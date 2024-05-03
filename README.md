@@ -1,20 +1,3 @@
-# Git Branching Haiku
-
-### Objectives:
-- Practice branching and merging with git.
-- Enhance understanding of working with multiple branches in a single repository.
-- Apply version control skills
-
-### Part 1: Create and Populate Branches
-
-1. **Fork and Clone the Repository:**
-   Begin by forking the provided repository. Once forked, clone it to your local machine to start working on the assignment.
-
-2. **Branching Out:**
-   You are required to create three separate branches from the main branch to add different lines of your haiku. The branch names should be as follows:
-   - `feature-line-one`
-   - `feature-line-two`
-   - `feature-line-three`
 
 3. **Adding Your Haiku:**
    Navigate to the `POEM.md` file within your repository. Look for the section titled **"Add your poem here"**. You will add each line of your haiku in the designated branches:
