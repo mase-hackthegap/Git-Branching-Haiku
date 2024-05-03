@@ -26,12 +26,12 @@
    As you complete each line in its respective branch, make sure to:
    - Run `git add .` to stage your changes.
    - Commit the changes with a meaningful message using `git commit -m "Add first/second/third line of haiku"`.
-   - Push your changes to the remote repository with `git push origin feature-line-one`, `git push origin feature-line-two`, and `git push origin feature-line-three` respectively.
+   - Push your changes to the remote repository with `git push feature-line-one`, `git push feature-line-two`, and `git push feature-line-three` respectively.
 
 ### Part 2: Merging Branches into Main
 
 1. **Prepare for Merging:**
-   Make sure your local main branch is up to date by running `git checkout main` followed by `git pull origin main`.
+   Make sure your local main branch is up to date by running `git checkout main` followed by `git pull main`.
 
 2. **Merging the Branches:**
    - Switch to the main branch: `git checkout main`.
